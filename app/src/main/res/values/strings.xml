@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">日历</string>
+    <string name="sun">星期日</string>
+    <string name="mon">星期一</string>
+    <string name="tue">星期二</string>
+    <string name="wed">星期三</string>
+    <string name="thu">星期四</string>
+    <string name="fri">星期五</string>
+    <string name="sat">星期六</string>
+</resources>
