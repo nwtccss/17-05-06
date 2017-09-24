@@ -1,4 +1,5 @@
 # Android calendar
 Simple calendar
 ## 截图
-![image](https://github.com/nwtccss/picture-/blob/master/Screenshot_1506256763.png)<img width="200px" />
+<img width="200px" />
+![image](https://github.com/nwtccss/picture-/blob/master/Screenshot_1506256763.png)
